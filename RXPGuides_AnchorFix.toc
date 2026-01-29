@@ -1,8 +1,8 @@
-## Interface: 11508
+## Interface: 11508, 20505
 ## Title: RestedXP Guides - Anchor Fix
 ## Notes: Applies the Current Step Frame anchor setting on login.
 ## Author: Hase
-## Version: 1.0.1
+## Version: 1.1
 ## Dependencies: RXPGuides
 
 RXPGuides_AnchorFix.lua
