@@ -1,5 +1,8 @@
 ## Changelog
 
+# 1.1.2
+- license update
+
 # 1.1.1
 - Add Logo
 

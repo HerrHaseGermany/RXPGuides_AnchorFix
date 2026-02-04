@@ -2,7 +2,7 @@
 ## Title: RestedXP Guides - Anchor Fix
 ## Notes: Applies the Current Step Frame anchor setting on login.
 ## Author: Hase
-## Version: 1.1.1
+## Version: 1.1.2
 ## Dependencies: RXPGuides
 ## IconTexture: Interface/AddOns/RXPGuides_AnchorFix/Media/logo.blp
 
